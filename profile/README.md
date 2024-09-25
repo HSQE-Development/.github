@@ -11,9 +11,9 @@ Brindar soluciones integrales y capacitaciones de alta calidad en temas relacion
 ## Servicios
 
 - **Consultoría en Seguridad y Salud en el Trabajo (SST)**
-- **Capacitación y entrenamiento en Seguridad Industrial**
+- **Capacitación y entrenamiento en Seguridad y salud en el trabajo**
 - **Gestión Ambiental y Sostenibilidad**
-- **Auditorías y diagnósticos en Higiene Industrial**
+- **Auditorías y diagnósticos en seguridad vial**
 
 ## Contacto
 
