@@ -1,6 +1,6 @@
 # HSEQ Consultoría y Capacitación
 
-![Logo de HSEQ]('logo.png') 
+![Logo de HSEQ](logo.png) 
 
 Creada el 18 de abril de 2011, HSEQ Consultoría y Capacitación está formada por profesionales en Seguridad y Salud en el Trabajo, especialistas en Seguridad Industrial, Higiene y Gestión Ambiental.
 
