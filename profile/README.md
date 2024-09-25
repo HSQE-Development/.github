@@ -1,4 +1,3 @@
-"
 # HSEQ Consultoría y Capacitación
 
 ![Logo de HSEQ](ruta_al_logo) 
